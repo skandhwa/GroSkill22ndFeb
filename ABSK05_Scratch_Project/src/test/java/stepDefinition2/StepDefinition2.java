@@ -22,6 +22,7 @@ public class StepDefinition2 extends BaseClass {
 	public void user_opens_the_url_of_the_application() {
 		
 		System.out.println("Application Launched");
+		System.out.println("Application opened");
 	   
 	}
 
